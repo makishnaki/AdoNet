@@ -69,3 +69,15 @@ services:
 
 ## Билет 1 — «Интернет-магазин: каталог товаров»
 
+1 эндпоинт
+![audit](https://github.com/makishnaki/AdoNet/blob/main/practic/screens/ййй.png)   
+создание и заполнение таблиц бд
+
+![audit](https://github.com/makishnaki/AdoNet/blob/main/practic/screens/ййй1.png)   
+файлы проекта
+
+![audit](https://github.com/makishnaki/AdoNet/blob/main/practic/screens/ййй2.png)   
+1 эндпоинт
+
+![audit](https://github.com/makishnaki/AdoNet/blob/main/practic/screens/ййй3.png)   
+проверка локалхост
